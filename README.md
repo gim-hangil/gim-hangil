@@ -1,4 +1,4 @@
-<a href="https://velog.io/@gim-hangil"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://gim-hangil.github.io"><img src="https://img.shields.io/badge/Blog-222222?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="mailto: gim_hangil@kakao.com"><img src="https://img.shields.io/badge/Mail-FFCD00?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 :wave: Hi there! I'm a student and developer. I'm into developing web applications these days.
